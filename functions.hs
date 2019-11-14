@@ -191,6 +191,8 @@ fibTake = take 10 fib
 
 doList = sortBy (compare `on` snd) [('a', 5) ,('z', 4), ('b', 2), ('a', 3)]
 
+testList = [1,2,3,4]
+
 
 
 
